@@ -1,0 +1,86 @@
+/* tag Selector */
+
+body
+{
+    background-color: rgb(34, 14, 53);
+    font-family: 'Dancing Script', cursive;
+}
+
+h1
+{
+    font-size: 10rem;
+    color: aqua;
+    text-align: center;
+}
+
+img
+{
+    margin-top: 2%;
+}
+
+footer
+{
+    color: aqua;
+    text-align: center;
+}
+
+/* Class Selector */
+
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 5%;
+  }
+
+  .dice {
+    text-align: center;
+    display: inline-block;
+    margin-top: 5%;
+  
+  }
+.player1
+{
+    font-size: 2rem;
+   
+    color: aqua;
+    text-align:left;
+    display: inline;
+    margin-top: 20%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.player2
+{
+    font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+    color: aqua;
+    text-align: right;
+    display: inline;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+img1
+{
+   /* // width: 80%; */
+    position: relative;
+}
+img2
+{ 
+    position: relative;
+}
+.btn
+{
+    margin-top: 2%;
+   display: inline-block;
+   background-color: bisque;
+}
+.btn:hover
+{
+    background-color: rgb(236, 236, 236);
+}
+
+
